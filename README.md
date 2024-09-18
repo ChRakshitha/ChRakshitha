@@ -6,6 +6,11 @@
 
 I am a Third year student currently pursuing Bachelors in Technology. I always had a inconsistent relationship with coding, now i am trying to change it. I am interested in Competitive programming, Machine learning and Theoretical Computer Science. When I am not studying or coding, I watch movies and write stories. I write Thrillers and Science Fiction. 
 
+Programming Languages:
+  - C
+  - Python
+  - Java
+  - Kotlin
 
 <!---
 ChRakshitha/ChRakshitha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
